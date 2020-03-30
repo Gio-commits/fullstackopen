@@ -1,3 +1,1 @@
-first commit
-First exerice
-Hello wold
+Exercises for Fullstack2020 of University of Helsinki.

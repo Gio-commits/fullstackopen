@@ -1,1 +1,1 @@
-Exercises for Fullstack2020 course of the University of Helsinki.
+Exercises Fullstack2020 course of the University of Helsinki.

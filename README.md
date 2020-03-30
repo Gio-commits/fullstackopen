@@ -1,2 +1,3 @@
 first commit
- First exerice
+First exerice
+Hello wold
